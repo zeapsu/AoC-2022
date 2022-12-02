@@ -1,8 +1,4 @@
-#![allow(unused)]
-
-use crate::{
-    part1::part1, part2::part2
-};
+use crate::{part1::part1, part2::part2};
 
 mod part1;
 mod part2;
